@@ -1,0 +1,22 @@
+:root {
+  --mdc-theme-primary: #2bb3bb;
+  --mdc-theme-secondary: #252525;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #dff4f5;
+}
+
+.mdc-card {
+  background-color: #fff;
+}
+
+.mdc-tab-bar {
+  display: inherit;
+}
+
+.mdc-tab {
+  padding-top: 12px;
+}
